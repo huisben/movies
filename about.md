@@ -1,17 +1,12 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Hu am I?
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" width = "256" src="../assets/img/ben.JPG" alt="Ben">
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hey ya'll thanks for visiting my page. I've loved movies ever since [Pmall](https://www.google.com/maps/place/Pacific+Mall/@43.8260053,-79.3062365,15z/) was notorious for bootleggers. The pirated DVDs may have come and gone, but through movies I've learned more about culture, subculture, emotion, psychology, and love than I could have possibly hoped to experience alone. My love for the cinema spans good moods and bad. In line with my goal to become more of a content creator (rather than just digester) this year, I'm using this outlet to practice writing and share films I enjoyed. Everything is purely my opinion and I will always choose snark and sarcasm when possible. Thanks for dropping by and reading!

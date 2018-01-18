@@ -2,12 +2,28 @@
 layout: post
 title: "SPOILERS: Daniel Radcliffe CAN'T resist getting naked after Equus"
 date: 2018-01-15
-image: 'https://images-na.ssl-images-amazon.com/images/I/91kUk46sJpL._SY679_.jpg'
+image: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyODc4Njg4OF5BMl5BanBnXkFtZTgwNDIwNDA4MTE@._V1_SY1000_SX675_AL_.jpg'
 description: What If?
 category: 'rom-com'
 tags:
 
 ---
+
+<div class="star-rating" title="50%">
+    <div class="back-stars">
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        
+        <div class="front-stars" style="width: 50%">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+            <i class="fa fa-star" aria-hidden="true"></i>
+        </div>
+    </div>
+</div>   
 
 Another feel good direct-to-video Home DVD (now known as Amazon Prime Streaming) (<a href="http://www.imdb.com/title/tt1486834/">IMDB</a>), featuring a boy and a girl who has a **boyfriend**.
 
